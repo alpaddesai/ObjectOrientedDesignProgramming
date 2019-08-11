@@ -8,8 +8,6 @@ All images are custom by Alpa D Desai. Copyright protection in process.
 
 ![image](OOPCSharp.png)
 
-![image](Algorithms.png)
-
 ![image](AlgorithmsImage.png)
 
 ![image](AlgorithmsC++.png)
