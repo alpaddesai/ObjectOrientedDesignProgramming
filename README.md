@@ -10,4 +10,6 @@ All images are custom by Alpa D Desai. Copyright protection in process.
 
 ![image](Algorithms.png)
 
+![image](AlgorithmsImage.png)
+
 ![image](AlgorithmsC++.png)
