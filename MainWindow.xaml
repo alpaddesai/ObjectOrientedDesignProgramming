@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ObjectOrientedDesignProgramming"
         mc:Ignorable="d"
-        Title="ObjectOrientedProgramming" Height="365" Width="312">
+        Title="ObjectOrientedProgramming" Height="365" Width="312" MaxWidth="312" MaxHeight="365">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="Black" Offset="0"/>
@@ -28,12 +28,12 @@
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
         </Button>
-        <Button Content="AlgorithmsCSharp" HorizontalAlignment="Left" Margin="68,138,0,0" VerticalAlignment="Top" Width="169" Height="54" Click="Button_Click" Grid.RowSpan="2">
+        <Button Content="Algorithms CSharp" HorizontalAlignment="Left" Margin="68,138,0,0" VerticalAlignment="Top" Width="169" Height="54" Click="Button_Click" Grid.RowSpan="2">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
         </Button>
-        <Button Content="Algorithms_Cplusplus" HorizontalAlignment="Left" Margin="68,57,0,0" VerticalAlignment="Top" Width="171" Height="56" Click="Button_Click_1" Grid.Row="1">
+        <Button Content="Algorithms Cplusplus" HorizontalAlignment="Left" Margin="68,57,0,0" VerticalAlignment="Top" Width="171" Height="56" Click="Button_Click_1" Grid.Row="1">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>

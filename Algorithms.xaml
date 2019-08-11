@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ObjectOrientedDesignProgramming"
         mc:Ignorable="d"
-        Title="Algorithms" Height="745.386" Width="1233.846" MaxWidth="1234" MaxHeight="745">
+        Title="Algorithms" Height="643.386" Width="1292.846" MaxWidth="1293" MaxHeight="643">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="Black" Offset="0"/>
@@ -13,10 +13,19 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid Margin="0,0,27,16">
-        <Image HorizontalAlignment="Left" Height="318" Margin="5,3,0,0" VerticalAlignment="Top" Width="619" Source="Image5.png"/>
-        <Image HorizontalAlignment="Left" Height="351" Margin="6,343,0,0" VerticalAlignment="Top" Width="622" Source="Image6.png"/>
-        <Image HorizontalAlignment="Left" Height="404" Margin="651,12,0,0" VerticalAlignment="Top" Width="548" Source="Image7.png"/>
-        <Image HorizontalAlignment="Left" Margin="641,408,-28,9" Width="586" Source="Image8.png"/>
+         <Image HorizontalAlignment="Left" Height="334" Margin="6,263,0,0" VerticalAlignment="Top" Width="621" Source="Image6.png"/>
+        <Image HorizontalAlignment="Left" Height="244" Margin="6,6,0,0" VerticalAlignment="Top" Width="627" Source="onlineDatabase.png"/>
+        <Image HorizontalAlignment="Left" Margin="635,-2,-8,321" Width="631" Source="Image8.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.39"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-1.993"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image HorizontalAlignment="Left" Height="318" Margin="634,283,-14,-1" VerticalAlignment="Top" Width="638" Source="binarysearchImage.png"/>
 
     </Grid>
 </Window>

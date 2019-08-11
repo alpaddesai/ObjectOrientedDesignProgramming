@@ -128,13 +128,7 @@
     <Resource Include="Image4.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Image5.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Image6.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image7.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image8.png" />
@@ -153,6 +147,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="onlineDatabase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="binarysearchImage.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
