@@ -8,6 +8,11 @@ All images are custom by Alpa D Desai. Copyright protection in process.
 
 ![image](OOPCSharp.png)
 
+## Algorithms 
 ![image](AlgorithmsImage.png)
 
+## Algorithms in C++
 ![image](AlgorithmsC++.png)
+
+## Practice designs in CSharp
+![image](PracticeImage.png)
