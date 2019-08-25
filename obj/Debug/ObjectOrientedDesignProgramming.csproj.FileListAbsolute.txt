@@ -18,3 +18,5 @@ C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignPr
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.exe
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.pdb
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\Practice.g.cs
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\Practice.baml

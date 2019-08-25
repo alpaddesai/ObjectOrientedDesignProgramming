@@ -42,5 +42,11 @@ namespace ObjectOrientedDesignProgramming
             AlgorithmsC__ AlgorithmsC__Object = new AlgorithmsC__();
             AlgorithmsC__Object.Show();
         }
+
+        private void Practice_Click(object sender, RoutedEventArgs e)
+        {
+            Practice PracticeObject = new Practice();
+            PracticeObject.Show();
+        }
     }
 }

@@ -88,8 +88,15 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Practice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Practice.xaml.cs">
+      <DependentUpon>Practice.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -153,6 +160,18 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="binarysearchImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assignment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assignmentI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assignmentII.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assignmentIII.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
