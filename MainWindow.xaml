@@ -25,24 +25,44 @@
         </Grid.RowDefinitions>
         <Button x:Name="Examples_Visual_C_" Content="Examples" HorizontalAlignment="Left" Margin="66,20,0,89" Width="169" Click="Examples_Visual_C__Click">
             <Button.Background>
-                <ImageBrush ImageSource="Image1.png"/>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.HighlightTextColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button Content="Algorithms CSharp" HorizontalAlignment="Left" Margin="68,101,0,0" VerticalAlignment="Top" Width="169" Height="54" Click="Button_Click">
+        <Button Content="Algorithms CSharp" HorizontalAlignment="Left" Margin="67,83,0,0" VerticalAlignment="Top" Width="169" Height="54" Click="Button_Click">
             <Button.Background>
-                <ImageBrush ImageSource="Image1.png"/>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.HighlightTextColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button Content="Algorithms Cplusplus" HorizontalAlignment="Left" Margin="68,14,0,0" VerticalAlignment="Top" Width="171" Height="56" Click="Button_Click_1" Grid.Row="1">
+        <Button Content="Algorithms Cplusplus" HorizontalAlignment="Left" Margin="64,145,0,0" VerticalAlignment="Top" Width="171" Height="56" Click="Button_Click_1" Grid.RowSpan="2">
             <Button.Background>
-                <ImageBrush ImageSource="Image1.png"/>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Label HorizontalAlignment="Left" Margin="12,132,0,0" Grid.Row="1" VerticalAlignment="Top" Content="Reference How to Program with Deitel C++_CSharp "/>
+        <Label HorizontalAlignment="Left" Margin="13,143,0,0" Grid.Row="1" VerticalAlignment="Top" Content="Reference How to Program with Deitel C++_CSharp "/>
         <Label Content="Label" HorizontalAlignment="Left" Margin="140,158,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-        <Button x:Name="Practice" Content="Practice" HorizontalAlignment="Left" Margin="68,88,0,0" Grid.Row="1" VerticalAlignment="Top" Width="175" Height="51" Click="Practice_Click">
+        <Button x:Name="Practice" Content="Practice" HorizontalAlignment="Left" Margin="62,47,0,0" Grid.Row="1" VerticalAlignment="Top" Width="175" Height="51" Click="Practice_Click">
             <Button.Background>
-                <ImageBrush ImageSource="Image1.png"/>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="PracticeAlgorithms" Content="Practice Algorithms" HorizontalAlignment="Left" Margin="62,104,0,0" Grid.Row="1" VerticalAlignment="Top" Width="173" Height="44" Click="PracticeAlgorithms_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
             </Button.Background>
         </Button>
     </Grid>

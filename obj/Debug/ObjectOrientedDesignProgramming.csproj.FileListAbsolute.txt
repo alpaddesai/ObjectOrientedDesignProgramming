@@ -5,6 +5,8 @@ C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignPr
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\AlgorithmsC++.g.cs
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ExamplesVisualCSharp.g.cs
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\Practice.g.cs
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\PracticeAlgorithms.g.cs
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\App.g.cs
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming_MarkupCompile.cache
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming_MarkupCompile.lref
@@ -12,11 +14,11 @@ C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignPr
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\AlgorithmsC++.baml
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ExamplesVisualCSharp.baml
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\Practice.baml
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\PracticeAlgorithms.baml
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.g.resources
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.Properties.Resources.resources
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.csproj.GenerateResource.cache
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.exe
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\ObjectOrientedDesignProgramming.pdb
-C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\Practice.g.cs
-C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Debug\Practice.baml

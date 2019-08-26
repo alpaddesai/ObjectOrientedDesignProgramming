@@ -48,5 +48,11 @@ namespace ObjectOrientedDesignProgramming
             Practice PracticeObject = new Practice();
             PracticeObject.Show();
         }
+
+        private void PracticeAlgorithms_Click(object sender, RoutedEventArgs e)
+        {
+            PracticeAlgorithms PracticeAlgorithmsObject = new PracticeAlgorithms();
+            PracticeAlgorithmsObject.Show();
+        }
     }
 }

@@ -20,3 +20,6 @@ C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignPr
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Release\ObjectOrientedDesignProgramming.pdb
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Release\Practice.g.cs
 C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Release\Practice.baml
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Release\ObjectOrientedDesignProgramming.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Release\PracticeAlgorithms.g.cs
+C:\Users\ADG\source\repos\ObjectOrientedDesignProgramming\ObjectOrientedDesignProgramming\obj\Release\PracticeAlgorithms.baml

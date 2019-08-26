@@ -92,10 +92,17 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="PracticeAlgorithms.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Practice.xaml.cs">
       <DependentUpon>Practice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PracticeAlgorithms.xaml.cs">
+      <DependentUpon>PracticeAlgorithms.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
