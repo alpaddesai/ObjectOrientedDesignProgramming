@@ -4,7 +4,7 @@ The project provides a few examples of object oriented design programming.Confid
 Please download the executable in https://github.com/alpaddesai/ObjectOrientedDesignProgramming/releases for details. 
 All images are custom by Alpa D Desai. Copyright protection in process.
 
-![image](OODImage.png)
+![image](ImageAlgorithms.png)
 
 ## OOD Functionality
 ![image](OOPCSharp.png)
@@ -17,3 +17,6 @@ All images are custom by Alpa D Desai. Copyright protection in process.
 
 ## Practice designs in CSharp
 ![image](PracticeImage.png)
+
+## Practice designs in C++
+![image](algorithms.png)
