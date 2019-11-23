@@ -21,5 +21,3 @@ All images are custom by Alpa D Desai.
 ## Practice designs in C++
 ![image](algorithms.png)
 
-## Design Verification 
-![image](HardentStudentCertificate.png)
