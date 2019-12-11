@@ -21,3 +21,5 @@ All images are custom by Alpa D Desai.
 ## Practice designs in C++
 ![image](algorithms.png)
 
+##C++ Certification
+![image](C++_Certification.png)
