@@ -19,6 +19,7 @@ All images are custom by Alpa D Desai.
 ![image](PracticeImage.png)
 
 ## Practice designs in C++
+### Modern C++: (lambda, delegate,smart pointers, smart pointers)
 ![image](algorithms.png)
 
 ## C# Certification
