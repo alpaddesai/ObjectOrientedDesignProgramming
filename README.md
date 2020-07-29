@@ -22,6 +22,9 @@ All images are custom by Alpa D Desai.
 ### Modern C++: (lambda, delegate,smart pointers, smart pointers)
 ![image](algorithms.png)
 
+## C programming
+![image](Cprogramming.png)
+
 ## C# Certification
 ![image](CSharpCertificate.jpg)
 
