@@ -12,7 +12,7 @@ All images are custom by Alpa D Desai.
 ## Algorithms 
 ![image](AlgorithmsImage.png)
 
-## Algorithms in C++
+## Algorithms in C++ (eclipse IDE)
 ![image](AlgorithmsC++.png)
 
 ## Practice designs in CSharp
