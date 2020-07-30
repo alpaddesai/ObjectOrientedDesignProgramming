@@ -31,5 +31,5 @@ All images are custom by Alpa D Desai.
 ## C++ Certification
 ![image](C++_Certification.png)
 
-## Object Oriented Programming in Linux
+## Object Oriented Programming in Linux, g++
 ![image](LinuxG++.jpg)
