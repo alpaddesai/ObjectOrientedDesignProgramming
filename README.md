@@ -34,4 +34,4 @@ All images are custom by Alpa D Desai.
 ## Object Oriented Programming in Linux, g++
 ![image](LinuxG++.jpg)
 
-Additional details for HDL reference: https://github.com/alpaddesai/SystemVerilog
+## Additional details for HDL reference: https://github.com/alpaddesai/SystemVerilog
