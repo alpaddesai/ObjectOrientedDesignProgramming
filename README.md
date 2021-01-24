@@ -35,3 +35,5 @@ All images are custom by Alpa D Desai.
 ![image](LinuxG++.jpg)
 
  Additional details for HDL reference: https://github.com/alpaddesai/SystemVerilog
+ 
+ ![image](USCopyrightCertificateofRegistration.png)
