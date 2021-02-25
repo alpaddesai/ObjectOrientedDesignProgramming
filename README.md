@@ -36,6 +36,7 @@ All images are custom by Alpa D Desai.
 
 ## Interest
 ![image](image1.jpg)
+![image](image_1.png)
 
  Additional details for HDL reference: https://github.com/alpaddesai/SystemVerilog 
  
