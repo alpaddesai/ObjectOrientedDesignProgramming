@@ -38,5 +38,5 @@ All images are custom by Alpa D Desai.
 ![image](image1.jpg)
 ![image](image_1.png)
 
- Additional details for HDL reference: https://github.com/alpaddesai/SystemVerilog 
+ Additional details for HDL reference: https://github.com/alpaddesai/DataStructures
  
