@@ -34,6 +34,9 @@ All images are custom by Alpa D Desai.
 ## Object Oriented Programming in Linux, g++
 ![image](LinuxG++.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.jpg)
 ![image](image_1.png)
