@@ -40,9 +40,5 @@ All images are custom by Alpa D Desai.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest
-![image](image1.jpg)
-![image](image_1.png)
-
  Additional details for HDL reference: https://github.com/alpaddesai/DataStructures
  
