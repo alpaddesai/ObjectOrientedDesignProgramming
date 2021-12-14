@@ -34,6 +34,7 @@ All images are custom by Alpa D Desai.
 ## Object Oriented Programming in Linux, g++
 ![image](LinuxG++.jpg)
 
+## C_C++ Certification
 ![image](C_Cplusplus.jpg)
 
 ## Algorithms 
@@ -43,4 +44,3 @@ All images are custom by Alpa D Desai.
 ![image](EthicsandExcellence.png)
 
  Additional details for HDL reference: https://github.com/alpaddesai/DataStructures
- 
