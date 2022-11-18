@@ -40,6 +40,9 @@ All images are custom by Alpa D Desai.
 ## Algorithms 
 ![image](SimulationsPerformanceMetrics.jpg)
 
+## Exam
+![image](CFAExam.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
