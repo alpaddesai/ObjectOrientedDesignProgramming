@@ -40,6 +40,9 @@ All images are custom by Alpa D Desai.
 ## Algorithms 
 ![image](SimulationsPerformanceMetrics.jpg)
 
+## Admission Letter
+![image](AdmissionLetter.jpg)
+
 ## Exam
 ![image](CFAExam.jpg)
 
