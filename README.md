@@ -43,6 +43,9 @@ All images are custom by Alpa D Desai.
 ## Admission Letter
 ![image](AdmissionLetter.jpg)
 
+## Admission Letter
+![image](MSEngMgmt.jpg)
+
 ## Exam
 ![image](CFAExam.jpg)
 
