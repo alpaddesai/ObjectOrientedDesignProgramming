@@ -46,9 +46,6 @@ All images are custom by Alpa D Desai.
 ## Admission Letter
 ![image](MSEngMgmt.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
