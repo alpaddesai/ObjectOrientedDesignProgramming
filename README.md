@@ -40,12 +40,6 @@ All images are custom by Alpa D Desai.
 ## Algorithms 
 ![image](SimulationsPerformanceMetrics.jpg)
 
-## Admission Letter
-![image](AdmissionLetter.jpg)
-
-## Admission Letter
-![image](MSEngMgmt.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
