@@ -45,4 +45,4 @@ All images are custom by Alpa D Desai.
 
 ![image](USCopyrightCertificate.png)
 
- Additional details for HDL reference: https://github.com/alpaddesai/DataStructures
+ Additional details for HDL reference: https://github.com/alpaddesai/SoftwareEngineering
