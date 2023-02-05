@@ -20,7 +20,7 @@ All images are custom by Alpa D Desai.
 
 ## Practice designs in C++
 ### Modern C++: (lambda, delegate,smart pointers, smart pointers)
-![image](algorithms.png)
+
 
 ## C programming
 ![image](Cprogramming.png)
