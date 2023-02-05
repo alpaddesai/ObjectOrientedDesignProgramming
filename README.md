@@ -15,10 +15,10 @@ All images are custom by Alpa D Desai.
 ## Algorithms in C++ (eclipse IDE)
 ![image](AlgorithmsC++.png)
 
-## Practice designs in C#
+## Practice designs in C#,  Deitel how to program C#
 ![image](PracticeImage.png)
 
-## Practice designs in C++
+## Practice designs in C++ , Deitel how to program C++
 ### Modern C++: (lambda, delegate,smart pointers, smart pointers)
 
 
