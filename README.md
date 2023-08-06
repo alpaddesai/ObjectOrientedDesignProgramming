@@ -25,8 +25,6 @@ All images are custom by Alpa D Desai.
 ## C programming
 ![image](Cprogramming.png)
 
-## C# Certification
-![image](CSharpCertificate.jpg)
 
 ## C++ Certification
 ![image](C++_Certification.png)
